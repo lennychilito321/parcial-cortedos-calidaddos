@@ -1,0 +1,31 @@
+{
+  "usuario_nuevo": {
+    "nombre": "Juan Perez",
+    "email": "juank78pe@gmail.com",
+    "password": "Clave123*"
+  },
+  "usuario_registrado": {
+    "email": "juank78pe@gmail.com",
+    "password": "Clave123*"
+  },
+  "producto": {
+    "nombre": "Teclado Mecánico RGB",
+    "precio": "120000",
+    "stock": "15"
+  },
+  "cliente": {
+    "nombre": "Cliente Automatizado",
+    "email": "cliente@autom.com",
+    "telefono": "3001234567",
+    "documento": "100200300"
+  },
+  "proveedor": {
+    "nombre": "Proveedor Tecnológico S.A.S",
+    "nit": "900123456-1",
+    "telefono": "3119876543"
+  },
+  "gasto": {
+    "concepto": "Pago de servicios públicos",
+    "monto": "85000"
+  }
+}
