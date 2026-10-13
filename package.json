@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "parcial-calidad2",
+=======
+  "name": "pruebaszentaro",
+>>>>>>> 8ee33ab74c88acd7d22970e04eeb01a89356e8be
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +15,11 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+<<<<<<< HEAD
     "cypress": "^16.1.1",
     "cypress-mochawesome-reporter": "^5.0.0"
+=======
+    "cypress": "^16.1.1"
+>>>>>>> 8ee33ab74c88acd7d22970e04eeb01a89356e8be
   }
 }

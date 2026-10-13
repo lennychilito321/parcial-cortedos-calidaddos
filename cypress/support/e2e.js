@@ -14,5 +14,9 @@
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
+<<<<<<< HEAD
 import './commands'
 import 'cypress-mochawesome-reporter/register';
+=======
+import './commands'
+>>>>>>> 8ee33ab74c88acd7d22970e04eeb01a89356e8be

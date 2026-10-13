@@ -1,5 +1,6 @@
 {
   "usuario_nuevo": {
+<<<<<<< HEAD
     "nombre": "Estudiante Cypress",
     "email": "TU_CORREO_DE_PRUEBA@gmail.com",
     "password": "TU_PASSWORD_AQUI"
@@ -20,3 +21,34 @@
     "documento": "987654321"
   }
 }
+=======
+    "nombre": "Juan Perez",
+    "email": "juank78pe@gmail.com",
+    "password": "Clave123*"
+  },
+  "usuario_registrado": {
+    "email": "juank78pe@gmail.com",
+    "password": "Clave123*"
+  },
+  "producto": {
+    "nombre": "Teclado Mecánico RGB",
+    "precio": "120000",
+    "stock": "15"
+  },
+  "cliente": {
+    "nombre": "Cliente Automatizado",
+    "email": "cliente@autom.com",
+    "telefono": "3001234567",
+    "documento": "100200300"
+  },
+  "proveedor": {
+    "nombre": "Proveedor Tecnológico S.A.S",
+    "nit": "900123456-1",
+    "telefono": "3119876543"
+  },
+  "gasto": {
+    "concepto": "Pago de servicios públicos",
+    "monto": "85000"
+  }
+}
+>>>>>>> 8ee33ab74c88acd7d22970e04eeb01a89356e8be

@@ -22,6 +22,7 @@
 //
 //
 // -- This will overwrite an existing command --
+<<<<<<< HEAD
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 Cypress.Commands.add('login', (email, password) => {
@@ -36,3 +37,6 @@ Cypress.Commands.add('login', (email, password) => {
   // Aserción
   cy.contains('Bienvenido', { timeout: 10000 }).should('be.visible');
 });
+=======
+// Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+>>>>>>> 8ee33ab74c88acd7d22970e04eeb01a89356e8be

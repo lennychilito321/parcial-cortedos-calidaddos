@@ -1,3 +1,11 @@
 node_modules/
+<<<<<<< HEAD
 cypress/videos/
 cypress/screenshots/
+=======
+.env
+.env.*
+!.env.example
+cypress/videos/
+cypress/screenshots/
+>>>>>>> 8ee33ab74c88acd7d22970e04eeb01a89356e8be
