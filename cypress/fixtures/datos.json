@@ -1,0 +1,22 @@
+{
+  "usuario_nuevo": {
+    "nombre": "Estudiante Cypress",
+    "email": "TU_CORREO_DE_PRUEBA@gmail.com",
+    "password": "TU_PASSWORD_AQUI"
+  },
+  "usuario_registrado": {
+    "email": "juank78pe@gmail.com",
+    "password": "juank78pe"
+  },
+  "producto": {
+    "nombre": "Cable USB Tipo C Cypress",
+    "precio": "15000",
+    "stock": "20"
+  },
+  "cliente": {
+    "nombre": "Juan Perez Autom",
+    "email": "juan.autom@gmail.com",
+    "telefono": "3000000000",
+    "documento": "987654321"
+  }
+}
